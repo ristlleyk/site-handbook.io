@@ -1,5 +1,5 @@
 // Настройка пути к worker файлу PDF.js
-pdfjsLib.GlobalWorkerOptions.workerSrc = 'pdf.min.js';
+pdfjsLib.GlobalWorkerOptions.workerSrc = 'pdf.worker.min.js';
 
 // Основные переменные
 let pdfDoc = null,
