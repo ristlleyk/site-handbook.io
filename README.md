@@ -1,2 +1,2 @@
-# site-handbook.io
+# site-g.io
 site-handbook
